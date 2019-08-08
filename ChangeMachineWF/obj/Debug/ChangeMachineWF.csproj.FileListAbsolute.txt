@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\bin\Debug\ChangeMachineWF.exe.config
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\bin\Debug\ChangeMachineWF.exe
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\bin\Debug\ChangeMachineWF.pdb
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\obj\Debug\ChangeMachineWF.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\obj\Debug\ChangeMachineWF.Form1.resources
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\obj\Debug\ChangeMachineWF.Properties.Resources.resources
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\obj\Debug\ChangeMachineWF.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\obj\Debug\ChangeMachineWF.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\obj\Debug\ChangeMachineWF.exe
+C:\Users\chris\source\repos\ChangeMachineWF\ChangeMachineWF\obj\Debug\ChangeMachineWF.pdb
