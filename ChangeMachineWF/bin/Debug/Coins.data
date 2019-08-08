@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Coins xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <One>0</One>
+  <FiftyCents>0</FiftyCents>
+  <TwentyFiveCents>0</TwentyFiveCents>
+  <TenCents>0</TenCents>
+  <FiveCents>0</FiveCents>
+  <OneCent>0</OneCent>
+</Coins>

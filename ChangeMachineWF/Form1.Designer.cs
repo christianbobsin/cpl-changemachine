@@ -348,42 +348,42 @@
             this.UpdateCoins001.Location = new System.Drawing.Point(89, 178);
             this.UpdateCoins001.Name = "UpdateCoins001";
             this.UpdateCoins001.Size = new System.Drawing.Size(100, 20);
-            this.UpdateCoins001.TabIndex = 19;
+            this.UpdateCoins001.TabIndex = 8;
             // 
             // UpdateCoins025
             // 
             this.UpdateCoins025.Location = new System.Drawing.Point(89, 100);
             this.UpdateCoins025.Name = "UpdateCoins025";
             this.UpdateCoins025.Size = new System.Drawing.Size(100, 20);
-            this.UpdateCoins025.TabIndex = 18;
+            this.UpdateCoins025.TabIndex = 5;
             // 
             // UpdateCoins010
             // 
             this.UpdateCoins010.Location = new System.Drawing.Point(89, 126);
             this.UpdateCoins010.Name = "UpdateCoins010";
             this.UpdateCoins010.Size = new System.Drawing.Size(100, 20);
-            this.UpdateCoins010.TabIndex = 17;
+            this.UpdateCoins010.TabIndex = 6;
             // 
             // UpdateCoins005
             // 
             this.UpdateCoins005.Location = new System.Drawing.Point(89, 152);
             this.UpdateCoins005.Name = "UpdateCoins005";
             this.UpdateCoins005.Size = new System.Drawing.Size(100, 20);
-            this.UpdateCoins005.TabIndex = 16;
+            this.UpdateCoins005.TabIndex = 7;
             // 
             // UpdateCoins050
             // 
             this.UpdateCoins050.Location = new System.Drawing.Point(89, 74);
             this.UpdateCoins050.Name = "UpdateCoins050";
             this.UpdateCoins050.Size = new System.Drawing.Size(100, 20);
-            this.UpdateCoins050.TabIndex = 15;
+            this.UpdateCoins050.TabIndex = 4;
             // 
             // UpdateCoins100
             // 
             this.UpdateCoins100.Location = new System.Drawing.Point(89, 48);
             this.UpdateCoins100.Name = "UpdateCoins100";
             this.UpdateCoins100.Size = new System.Drawing.Size(100, 20);
-            this.UpdateCoins100.TabIndex = 14;
+            this.UpdateCoins100.TabIndex = 3;
             // 
             // lbCurrentCoins001
             // 
@@ -446,7 +446,7 @@
             this.rbAdd.Location = new System.Drawing.Point(133, 17);
             this.rbAdd.Name = "rbAdd";
             this.rbAdd.Size = new System.Drawing.Size(69, 17);
-            this.rbAdd.TabIndex = 33;
+            this.rbAdd.TabIndex = 1;
             this.rbAdd.TabStop = true;
             this.rbAdd.Text = "Adicionar";
             this.rbAdd.UseVisualStyleBackColor = true;
@@ -457,7 +457,7 @@
             this.rbRemove.Location = new System.Drawing.Point(208, 17);
             this.rbRemove.Name = "rbRemove";
             this.rbRemove.Size = new System.Drawing.Size(68, 17);
-            this.rbRemove.TabIndex = 34;
+            this.rbRemove.TabIndex = 2;
             this.rbRemove.Text = "Remover";
             this.rbRemove.UseVisualStyleBackColor = true;
             // 
@@ -466,7 +466,7 @@
             this.button1.Location = new System.Drawing.Point(24, 71);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 23);
-            this.button1.TabIndex = 14;
+            this.button1.TabIndex = 2;
             this.button1.Text = "Calcular Troco";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Button1_Click);
@@ -476,7 +476,7 @@
             this.updateCoins.Location = new System.Drawing.Point(256, 176);
             this.updateCoins.Name = "updateCoins";
             this.updateCoins.Size = new System.Drawing.Size(75, 23);
-            this.updateCoins.TabIndex = 35;
+            this.updateCoins.TabIndex = 9;
             this.updateCoins.Text = "Atualizar";
             this.updateCoins.UseVisualStyleBackColor = true;
             this.updateCoins.Click += new System.EventHandler(this.UpdateCoins_Click);
@@ -486,7 +486,7 @@
             this.Change.Location = new System.Drawing.Point(24, 47);
             this.Change.Name = "Change";
             this.Change.Size = new System.Drawing.Size(100, 20);
-            this.Change.TabIndex = 15;
+            this.Change.TabIndex = 1;
             // 
             // label15
             // 
